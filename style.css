@@ -99,6 +99,15 @@ footer ul li {
   margin-right: 2rem;
 }
 
+.list {
+  list-style-type: none;
+}
+
+.list li {
+  display: inline-flex;
+  margin-right: 2rem;
+}
+
 .social-icons {
   color: #fff;
   font-size: 2rem;
@@ -123,6 +132,11 @@ hr {
 #footer-p {
   color: #fff;
   text-align: center;
+}
+
+.meme {
+  width: 20rem;
+  margin-left: 6rem;
 }
 
 @media (max-width: 960px) {
